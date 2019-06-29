@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge was trying to understand how intents work with different activities. The videos were very helpful in explaining this, but I got stuck a few times trying to figure out the code. I also got stuck with implementing the Youtube link as well as using glide for the updating the image URL. Overall, I really enjoyed this project and had fun learning the different components that came together to make it possible.
 
 ## Open-source libraries used
 
